@@ -1,0 +1,2 @@
+C:\Users\abdurrahman.yildiz\source\repos\MaskeTakip\Business\obj\Debug\net8.0\Business.csproj.AssemblyReference.cache
+C:\Users\abdurrahman.yildiz\source\repos\MaskeTakip\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
